@@ -27,4 +27,4 @@ collection). It's tooling is some of the best.
 * I just kinda like it. It's a pleasure to learn and use. Mostly because of the
 above 2 points - the simplicity keeps the cognitive load low, and it's pretty
 low overhead to do just about anything. And when you're done the performance
-is good
+is good.

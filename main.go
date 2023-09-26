@@ -26,5 +26,5 @@ func main() {
 
 func hi(w http.ResponseWriter, _ *http.Request) {
 	w.WriteHeader(http.StatusOK)
-	w.Write([]byte("hello world"))
+	w.Write([]byte("Hello World"))
 }
